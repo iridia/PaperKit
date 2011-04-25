@@ -1,0 +1,3 @@
+[submodule "Resources/FlexPaper"]
+	path = Resources/FlexPaper
+	url = https://github.com/iridia/FlexPaper
